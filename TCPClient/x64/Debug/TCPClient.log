@@ -1,0 +1,6 @@
+﻿  TCPClient.cpp
+C:\Users\d7sha\Desktop\C++\Assignments\NetworkProgramming1\TCPClient\TCPClient.cpp(46,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\d7sha\Desktop\C++\Assignments\NetworkProgramming1\TCPClient\TCPClient.cpp(50,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TCPClient.vcxproj -> C:\Users\d7sha\Desktop\C++\Assignments\NetworkProgramming1\BufferLib\x64\Debug\TCPClient.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
